@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 阿泥
-subtitle: ''
+title: Ernie
+subtitle: Welcome to my blog.
 description: ''
 keywords:
 author: Ernie Lee
@@ -13,7 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://hexo_blog/public/
+url: https://yue99520.github.io/hexo_blog/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,9 +98,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: ayer
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:yue99520/yue99520.github.io.git
+  branch: master
+  message: Hexo CLI auto deploy -- {{ now('YYYY-MM-DD HH:mm:ss') }}
