@@ -34,14 +34,14 @@ tags:
 
 - 以下就是開啟 Git Blame 後的結果，在 Editor 的左邊可以看到每一行程式碼是由誰提交，除了作者以外，**commit 時間**、**commit 版本雜湊**等等，其實都可以顯示。
 
-  <img src="../assets/14190380472915.jpg" alt="14190380472915" style="zoom:90%;" />
+![](14190380472915.jpg)
 
-- 開啟方式很簡單，只需要在 **Editor 顯示行數 的地方 右鍵** > **Annotate with Git Blame**
+- 開啟方式很簡單，只需要在 **Editor 顯示行數 的地方 右鍵** > **Annotate with Git Blame**。
 
-  <img src="../assets/14190384156051.jpg" alt="14190384156051" style="zoom:67%;" />
+![](14190384156051.jpg)
 
-- 我們可以透過再次點擊 **右鍵** > **View** 來選擇我們想要顯示的內容
-
-  <img src="../assets/14190386184800.png" alt="14190386184800" style="zoom:80%;" />
-
+- 我們可以透過再次點擊 **右鍵** > **View** 來選擇我們想要顯示的內容。
 - 註：Colors 與 Names 可以調整 Highlight 與顯示姓名的設定。
+
+![](14190386184800.png)
+
