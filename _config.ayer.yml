@@ -1,13 +1,11 @@
 # 侧边栏菜单
 menu:
   首頁: /
-  泥技術: /tech
-  泥日常: /life
-  泥旅遊: /trip
+  分類: /categories
   標籤: /tags
-  關於阿泥: /about
+  關於我: /about
   GitHub: https://github.com/yue99520
-  Instagram: https://www.instagram.com/dy99520/?hl=zh-tw
+  IG: https://www.instagram.com/dy99520/?hl=zh-tw
 
 # 站点次标题和打字动效
 # https://github.com/mattboldt/typed.js
@@ -30,7 +28,7 @@ logo: /images/ayer-side.svg
 # enable-是否启用封面；path-封面背景图；logo-封面logo
 cover:
   enable: true
-  path: /images/cover1.jpg # /source/images目录下附送多张美图，可更换
+  path: /images/taitung_joseph_dy.jpg # /source/images目录下附送多张美图，可更换
   logo: false #/images/ayer.svg，如果不要直接设置成false
 
 # 页面顶部进度条
